@@ -1,0 +1,29 @@
+# .NET Build Outputs
+*.pdb
+*.cache
+*.csproj.AssemblyReference.cache
+*.assets.cache
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.AssemblyInfo.cs
+*.GlobalUsings.g.cs
+
+# Visual Studio
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Other
+C2Server/obj/Release/
+
+# General
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
