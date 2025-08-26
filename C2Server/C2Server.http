@@ -1,0 +1,6 @@
+@C2Server_HostAddress = http://localhost:5107
+
+GET {{C2Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

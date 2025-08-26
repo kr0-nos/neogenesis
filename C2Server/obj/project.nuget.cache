@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2vmpHTbAMg=",
+  "success": true,
+  "projectFilePath": "/Users/samy-jamescarnet/C2/C2Server/C2Server.csproj",
+  "expectedPackageFiles": [
+    "/Users/samy-jamescarnet/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/Users/samy-jamescarnet/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
