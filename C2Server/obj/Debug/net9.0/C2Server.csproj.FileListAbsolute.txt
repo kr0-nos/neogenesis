@@ -30,3 +30,6 @@
 /Users/samy-jamescarnet/C2/C2Server/obj/Debug/net9.0/C2Server.pdb
 /Users/samy-jamescarnet/C2/C2Server/obj/Debug/net9.0/C2Server.genruntimeconfig.cache
 /Users/samy-jamescarnet/C2/C2Server/obj/Debug/net9.0/ref/C2Server.dll
+D:\Programming\neogenesis\C2Server\obj\Debug\net9.0\C2Server.dll
+D:\Programming\neogenesis\C2Server\obj\Debug\net9.0\refint\C2Server.dll
+D:\Programming\neogenesis\C2Server\obj\Debug\net9.0\C2Server.pdb
